@@ -85,7 +85,7 @@ CodeBuddy 通过 MCP (Model Context Protocol) 协议集成 Superpowers。
 
 ```bash
 mkdir -p ~/.codebuddy
-git clone https://github.com/obra/superpowers.git ~/.codebuddy/superpowers
+git clone https://github.com/binbinao/superpowers.git ~/.codebuddy/superpowers
 cd ~/.codebuddy/superpowers/.codebuddy/mcp-server
 npm install
 ```
